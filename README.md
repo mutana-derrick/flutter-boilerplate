@@ -1,6 +1,6 @@
-# login_app
+# lBoilerplate
 
-A new Flutter project.
+A Reusable flutter project folder structure .
 
 ## Getting Started
 
